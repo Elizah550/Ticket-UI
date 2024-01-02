@@ -10,7 +10,7 @@ Welcome to the Flutter Ticket UI project! This repository contains a Flutter app
 
 ## Screenshots
 
-![Ticket UI](screenshots/Ticket_UI.png)
+![Ticket UI](./screenshots/Ticket_UI.png)
 
 ## Getting Started
 
